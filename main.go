@@ -1,8 +1,8 @@
 package main
 
 import (
-	idb "HapeeCentralUpdater/internal_db"
 	"fmt"
+	idb "github.com/mmaFR/HapeeCentralUpdater/internal_db"
 	"log"
 	"net/http"
 )
